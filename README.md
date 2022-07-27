@@ -1,5 +1,5 @@
 ## Live Demo
-Open [demo](https://twitter-clone-nextjs-lyd6oscvq-venkat1705.vercel.app/) with in your browser to see the result.
+Open [Twitter-Clone](https://twitter-clone-nextjs-lyd6oscvq-venkat1705.vercel.app/) with in your browser to see the result.
 
 
 ## Getting Started
