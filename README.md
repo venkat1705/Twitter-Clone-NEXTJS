@@ -1,3 +1,6 @@
+## Live Demo
+Open [https://twitter-clone-nextjs-lyd6oscvq-venkat1705.vercel.app/](https://twitter-clone-nextjs-lyd6oscvq-venkat1705.vercel.app/) with your browser to see the result.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
